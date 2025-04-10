@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Esha Gupta - Product Manager</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 0; padding: 0; }
+        .container { max-width: 800px; margin: auto; padding: 20px; }
+        .header, .footer { text-align: center; margin: 20px 0; }
+        h1 { color: #333; }
+        p { margin: 10px 0; }
+        ul { list-style: none; padding: 0; }
+        li { margin: 5px 0; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Esha Gupta</h1>
+            <p>Product Manager at XYZ Company</p>
+        </div>
+
+        <section id="bio">
+            <h2>Bio</h2>
+            <p>Esha Gupta is an experienced Product Manager with a proven track record of bringing innovative products to market. With a passion for technology and design, Esha has successfully led cross-functional teams to achieve company goals and enhance user experiences.</p>
+        </section>
+
+        <section id="skills">
+            <h2>Skills</h2>
+            <ul>
+                <li>Product Lifecycle Management</li>
+                <li>User Experience Design</li>
+                <li>Market Analysis & Strategy</li>
+                <li>Agile & Scrum Methodologies</li>
+            </ul>
+        </section>
+
+        <section id="experience">
+            <h2>Experience</h2>
+            <p><strong>Senior Product Manager</strong> - XYZ Company</p>
+            <p>January 2018 - Present</p>
+            <ul>
+                <li>Led the development of a new mobile application that increased customer engagement by 30%.</li>
+                <li>Collaborated with engineering, marketing, and design teams to define product roadmaps and release schedules.</li>
+                <li>Conducted user research and usability studies to gather feedback and inform product improvements.</li>
+            </ul>
+        </section>
+
+        <section id="contact">
+            <h2>Contact</h2>
+            <p>For collaboration or inquiries, please reach out:</p>
+            <p>Email: esha.gupta@example.com</p>
+        </section>
+
+        <div class="footer">
+            <p>&copy; 2024 Esha Gupta</p>
+        </div>
+    </div>
+</body>
+</html>
